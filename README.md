@@ -1,0 +1,4 @@
+hadoopwordcoutninruby
+=====================
+
+mapreduce in ruby!
